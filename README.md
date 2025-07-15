@@ -25,8 +25,8 @@ A fully responsive, modern, and easy-to-use web-based To-Do List application bui
    - Download the zip (or clone) and extract the following files into a folder:
      ```
      index.html
-     styles.css
-     app.js
+     style.css
+     script.js
      README.md
      ```
 
@@ -72,5 +72,5 @@ Feel free to modify or extend the app! Some ideas:
 
 ---
 
-## ⚡️ Project Structure
+<!-- ## ⚡️ Project Structure -->
 
