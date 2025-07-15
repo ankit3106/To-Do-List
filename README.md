@@ -17,7 +17,8 @@ A fully responsive, modern, and easy-to-use web-based To-Do List application bui
 - **Modern UI:** Clean look, icons, large touch targets, easy navigation
 
 ---
-![Alt text](to-do.png)
+
+<img width="1403" height="949" alt="to-do" src="https://github.com/user-attachments/assets/cb3b6614-2304-439d-be71-73b3d18de56f" />
 
 ## **Start Using!**
 
